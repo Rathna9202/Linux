@@ -1,0 +1,18 @@
+To openterminal - ctrl + alt + t
+In 1983, GNU (GNU's not UNIX) by Richard Stallman
+    - Free software licence
+    - Open source software (OSS)
+
+sudo su => root user
+
+~ => home path
+There is two types of path.They are,
+    - Relative path
+        ~$cd ./D1/D2/D3
+    - Absolute path
+        ~$cd /home/user/D1/D2/D3
+
+cd => Change directory
+mkdir => make a new directory
+
+
